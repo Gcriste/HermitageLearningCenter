@@ -1,3 +1,5 @@
 # HermitageLearningCenter
 
-## Website for HLC
+### Website built for HLC
+
+###### Copyright @ Griffin Criste and @ HLC
