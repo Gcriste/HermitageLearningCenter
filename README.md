@@ -4,7 +4,7 @@
 
 ### Address: 3441 Lebanon Pike
 
-###### Copyright @ Griffin Criste and @ HLC
+###### Copyright @HLC
 
 
 <!--     <div class="col-sm-7 slideanim">
