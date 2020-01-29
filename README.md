@@ -2,7 +2,7 @@
 
 ### Website built for HLC
 
-### Address: 3441 Lebanon Pike
+### Address: 3441 Lebanon Pike Nashville, TN
 
 ###### Copyright @HLC
 
