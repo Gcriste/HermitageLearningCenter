@@ -6,7 +6,7 @@
 
 ###### Copyright @HLC
 
-###### Still in progress
+###### *This website is still in progress
 
 
 <!--     <div class="col-sm-7 slideanim">
