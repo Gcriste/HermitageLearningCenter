@@ -1,6 +1,6 @@
 # HermitageLearningCenter
 
-### Wesbite built for HLC
+### Website built for HLC
 
 ### Address: 3441 Lebanon Pike Nashville, TN
 
