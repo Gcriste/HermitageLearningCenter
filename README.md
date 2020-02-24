@@ -1,4 +1,4 @@
-# HermitageLearningCenter
+# Hermitage Learning Center
 
 ### Website built for HLC
 
