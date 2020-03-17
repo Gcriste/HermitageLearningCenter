@@ -1,6 +1,6 @@
-# HermitageLearningCenter
+# Hermitage Learning Center
 
-### Website built for HLC
+### This website is built for HLC
 
 ### Address: 3441 Lebanon Pike Nashville, TN
 
